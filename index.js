@@ -27,3 +27,4 @@ function division(a,b){
 }
 division(3/1);
 division(4/2);
+division(50/5);
