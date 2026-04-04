@@ -20,3 +20,8 @@ function Subract(a,b){
 Subract(4,5);
 Subract(3,6);
 Subract(-3,5);
+
+// Division Function
+function division(a,b){
+    return a/b;
+}
