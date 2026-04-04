@@ -14,3 +14,4 @@ function Subract(a,b){
     return a-b;
 }
 Subract(4,5);
+Subract(3,6);
