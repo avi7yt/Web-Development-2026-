@@ -11,7 +11,12 @@ multiply(4,5);
 
 // Subract function
 function Subract(a,b){
+    // condition 
+    if (a < 0 || b < 0 ) {
+        throw new Error("negative number not valid");
+    }
     return a-b;
 }
 Subract(4,5);
 Subract(3,6);
+Subract(-3,5);
