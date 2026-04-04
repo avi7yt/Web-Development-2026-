@@ -8,3 +8,9 @@ function multiply(a,b){
     return a*b;
 }
 multiply(4,5);
+
+// Subract function
+function Subract(a,b){
+    return a-b;
+}
+Subract(4,5);
