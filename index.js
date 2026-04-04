@@ -25,3 +25,4 @@ Subract(-3,5);
 function division(a,b){
     return a/b;
 }
+division(3/1);
